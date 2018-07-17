@@ -1,0 +1,6 @@
+D:\.net framework\Oops\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+D:\.net framework\Oops\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+D:\.net framework\Oops\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+D:\.net framework\Oops\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\.net framework\Oops\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+D:\.net framework\Oops\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb

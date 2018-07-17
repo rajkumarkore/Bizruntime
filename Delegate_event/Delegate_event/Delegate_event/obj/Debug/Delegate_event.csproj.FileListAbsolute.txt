@@ -1,0 +1,7 @@
+D:\BizRunTime\Delegate_event\Delegate_event\Delegate_event\bin\Debug\Delegate_event.exe.config
+D:\BizRunTime\Delegate_event\Delegate_event\Delegate_event\bin\Debug\Delegate_event.exe
+D:\BizRunTime\Delegate_event\Delegate_event\Delegate_event\bin\Debug\Delegate_event.pdb
+D:\BizRunTime\Delegate_event\Delegate_event\Delegate_event\obj\Debug\Delegate_event.csprojAssemblyReference.cache
+D:\BizRunTime\Delegate_event\Delegate_event\Delegate_event\obj\Debug\Delegate_event.csproj.CoreCompileInputs.cache
+D:\BizRunTime\Delegate_event\Delegate_event\Delegate_event\obj\Debug\Delegate_event.exe
+D:\BizRunTime\Delegate_event\Delegate_event\Delegate_event\obj\Debug\Delegate_event.pdb

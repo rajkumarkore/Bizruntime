@@ -1,0 +1,2 @@
+D:\BizRunTime\Arrays_Generics\Arry2\TDAraay\TDAraay\obj\Debug\TDAraay.csprojAssemblyReference.cache
+D:\BizRunTime\Arrays_Generics\Arry2\TDAraay\TDAraay\obj\Debug\TDAraay.csproj.CoreCompileInputs.cache

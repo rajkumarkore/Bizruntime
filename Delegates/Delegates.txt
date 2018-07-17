@@ -1,0 +1,78 @@
+https://www.dotnetperls.com/async
+
+Delegates: it is a type safe function parameter.
+=======
+-->A  delegate  holds the reference of a method  and then  calls the method for execution
+
+What is a delegate ?
+==============
+>It is a reference type.
+>It is a function pointer or it holds a reference (pointer) to a function (method).
+>It is type safe.
+>Delegates are mainly used for the event handling and the callback methods.
+
+>to call a method by using a delegate we have 3 steps:
+--------------------------------------------------
+1.define a delegate.
+[<modifiers>] delegate void/type  <Name>([<parameter list>]
+
+
+
+There are three types of delegates that can be used in C#.
+--------------------------------------------------------
+>Single Delegate.--->to ref or repesent in one funcn 
+>Multicast Delegate. ...>to ref or repesent in  more then one funcn 
+>Generic Delegate.
+      >Func
+     >Action
+    >Predicate
+
+
+
+What is the use of delegates in C#?
+==================
+Delegates are objects that contain information about the function rather 
+than data. We can encapsulate a reference to the method inside the delegate 
+object. They are similar to function pointers in C and C++ but the difference between delegates and 
+function pointers is that delegates are type safe
+
+>>Lambda  Expression:
+=================
+* A lambda expression is an anonymous function that you can use to create delegates or expression tree types. By using lambda expressions, 
+you can write local functions that can be passed as arguments or returned as the value of function calls. ... 
+A lambda expression is the most convenient way to create that delegate.
+
+
+Predicate delegate:
+============
+>Predicate delegate takes one input parameter and boolean return type.
+>Predicate delegate must contains some criateria to check whether supplied parameter meets those criateria or not.
+>Anonymous method and Lambda expression can be assigned to the predicate delegate.
+====================================================
+
+>Func, Action and Predicate are generic inbuilt delegates present in System namespace.
+>All three can be used with method, anonymous method and lambda expression.
+>Func can contains 0 to 16 input parameters and must have one return type.
+>Action can contain 1 to 16 input parameters and does not have any return type.
+>Predicate delegate should satisfy some criteria of method and must have one input parameter and one Boolean return type either true or false.
+>Input parameters of custom delegates is fixed but Func and Actions input parameter is variable from 0 to 16 and 1 to 16 respectively.
+==========================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

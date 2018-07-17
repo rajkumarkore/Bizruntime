@@ -1,0 +1,7 @@
+D:\BizRunTime\Abstract class and Methods\Interface\Interface\bin\Debug\Interface.exe.config
+D:\BizRunTime\Abstract class and Methods\Interface\Interface\bin\Debug\Interface.exe
+D:\BizRunTime\Abstract class and Methods\Interface\Interface\bin\Debug\Interface.pdb
+D:\BizRunTime\Abstract class and Methods\Interface\Interface\obj\Debug\InterfaceExamples.csprojAssemblyReference.cache
+D:\BizRunTime\Abstract class and Methods\Interface\Interface\obj\Debug\InterfaceExamples.csproj.CoreCompileInputs.cache
+D:\BizRunTime\Abstract class and Methods\Interface\Interface\obj\Debug\Interface.exe
+D:\BizRunTime\Abstract class and Methods\Interface\Interface\obj\Debug\Interface.pdb

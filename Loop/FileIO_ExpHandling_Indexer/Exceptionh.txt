@@ -1,0 +1,89 @@
+Exception h :  superclass is ===> System.Exception class.
+
+Advantage:
+=======
+>It maintains the normal flow of the application. In such case, rest of the code is executed event after exception.
+
+it is a class ,Abnormal termination program execution
+=========
+1.syntactical error.
+2.compilation error
+3.runtime error.
+
+--------------
+exceptions we can handle two ways
+--------------
+1.Logican Impln
+2.try  catch Impln
+
+===============
+try //any error ocur then it will ignore try blk then catch blk ll execute
+{
+}
+catch //if nt arror acor in try then finely ll execute
+{
+}
+finaly
+{
+}
+===============================
+1.generic  catch block : without expn class is called generic catch block
+catch
+{
+console.writeline("error  occured");
+}
+
+2.specific catch blobk :
+with exception class is class specific catch block
+catch(excption ex)
+{
+console.writeline(ex.message);
+}
+
+==============================
+system expn --it ll handle by CLR is creating instance and throwing 
+appln expn -------
+====================
+Checked:  The checked keyword is used to explicitly enable overflow checking for integral-type arithmetic operations and conversions
+-----------
+
+Unchecked: The unchecked keyword can be used to prevent overflow checking.
+-------------
+
+======================================
+SystemException class:
+--------------
+>SystemException()	It is used to initialize a new instance of the SystemException class
+
+>ValidationException, ArgumentException, ArithmeticException, DataException, StackOverflowException 
+
+Methods:
+---------
+>Equals(Object)
+>Finalize()
+>GetBaseException()
+>GetHashCode()
+>GetType()
+>MemberwiseClone()
+>ToString()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

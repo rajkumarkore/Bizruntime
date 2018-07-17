@@ -1,0 +1,167 @@
+09/07/2018.
+=========
+File i/o and indexes:
+==============
+Introduction: 
+-----------------     A file is a collection of data stored in a disk with a specific name and a directory path. When a file is opened for reading or writing,  
+                             it becomes a stream.
+  
+Stream:
+---------
+There are two main streams: 
+====================
+1.The input stream : The input stream is used for reading data from file (read operation)
+2.The output stream : The output stream is used for writing into the file (write operation).
+
+I/O Classes:
+-------------
+The System.IO namespace has various classes that are used for performing numerous operations with files, such as creating and deleting files,
+reading from or writing to a file, closing a file .
+
+1.BinaryReader: Reads primitive data from a binary stream.
+2.BinaryWriter :Writes primitive data in binary format.
+3.BufferedStream : A temporary storage for a stream of bytes.
+4 .Directory : Helps in manipulating a directory structure.
+5. Directory Info :  Used for performing operations on directories.
+6.DriveInfo : Provides information for the drives.
+7.File :  Helps in manipulating files.
+8.FileInfo :  Used for performing operations on files.
+9 FileStream :  Used to read from and write to any location in a file.
+10 : MemoryStream:  Used for random access to streamed data stored in memory.
+11 Path :Performs operations on path information.
+12. StreamReader:Used for reading characters from a byte stream.
+      >1.public override void Close()
+       >2.int Peek()
+       >3.int Read()
+13.StreamWriter :Is used for writing characters to a stream
+14 .StringReader :Is used for reading from a string buffer.
+15.StringWriter :Is used for writing into a string buffer.
+
+//Enumerator" :The enum keyword is used to declare an enumeration, a distinct type that consists of a set of named constants called the enumerator list.
+                          Usually it is best to define an enum directly within a namespace so that all classes in the namespace can access it with equal convenience
+is the .NET Framework's name for iterators.
+ =====================================================
+StreamReader Class : 
+------------------------
+Methods :
+----------
+1.public override void Close():
+--------------------------------
+It closes the StreamReader object and the underlying stream, and releases any system resources associated with the reader.
+
+2.public override int Peek():
+Returns the next available character but does not consume it.
+
+3.public override int Read():
+Reads the next character from the input stream and advances the character position by one.
+
+==============================
+
+FileStream reads or writes bytes from/to a physical file whether it is a .txt, .exe, .jpg or any other file. FileStream is derived from the Stream class.
+
+MemoryStream: MemoryStream reads or writes bytes that are stored in memory.
+-----------------
+BufferedStream: BufferedStream reads or writes bytes from other Streams to improve the performance of certain I/O operations.
+---------------------
+NetworkStream: NetworkStream reads or writes bytes from a network socket.
+--------------------
+PipeStream: PipeStream reads or writes bytes from different processes.
+-------------
+CryptoStream: CryptoStream is for linking data streams to cryptographic transformations.
+---------------
+==============================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,39 @@
+Delegates  and Event:
+==============
+
+>Delegates is a function pointer which can able to store the address of any function with same prototype( telling the compiler the name of the function, return data type including void,
+
+   While Event is a function handler which can handles or run the functions in same prototype of its delegate. ... All delegates in .Net are multicast delegates i.e. 
+   they hold references to several object/method pairs.
+
+
+>Function Prototyping. Function prototyping is telling the compiler the name of the function, return data type including void,
+  number of parameter it receives and data type of the parameter and the order in which it is supplied.
+
+//ctor + tab===const
+//propv+ tab ==get set
+//equal + tab == 2 mtds
+
+//tab shift ===left
+
+=======================================
+Asynchrony:
+=========
+Asynchrony is not about threading, it is about the mode of execution.
+
+I’m waiting there is one thread running (Synchronous) to while I’m waiting there is no thread running (Asynchronous). 
+So, we don’t have to care about the threads at all.
+
+There are three return types, you can use in async methods.
+========================
+1. Task
+2. Task<T>
+3. Void
+
+
+
+
+
+
+
+

@@ -1,0 +1,75 @@
+Indexer:
+----------
+>An indexer allows an object to be indexed such as an array
+>An Indexer is a member that enables an object to be indexed in the same way as an array.
+> is a class property that allows you to access a member variable of a class using the features of an array
+
+>this:
+this is a special keyword in C# to indicate the object of the current class.
+
+Syntax:
+--------
+Creating an Indexer
+<modifier> <return type> this [argument list]
+{
+get
+{
+// your get block code
+}
+
+set
+{
+// your set block code
+}
+} 
+
+In the above code:
+--------------
+<modifier>
+can be private, public, protected or internal. 
+
+<return type>
+can be any valid C# types. 
+
+this:
+this is a special keyword in C# to indicate the object of the current class. 
+
+[argument list]
+The formal-argument-list specifies the parameters of the indexer.
+
+Indexer is an instance member so can't be static but property can be static.
+Indexers are used on group of elements.
+Indexer is identified by its signature where as a property is identified it's name.
+Indexers are accessed using indexes where as properties are accessed by names.
+Indexer can be overloaded
+
+where,when,,why,,,,types
+=================================
+Indexer is a highly specialized property which allows instances of a class (or struct) to be indexed just like an array(properties can be static but indexers cannot).
+
+Why use indexers:
+--------------------
+- instead of a new data structure, the class itself is a data structure.
+- simplified syntax - syntactic sugar.
+
+
+When to use:
+--------------
+- if your class needs list(/array) of its instances.
+- if your class represents list(/array) of values directly related to your class .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

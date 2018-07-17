@@ -1,0 +1,7 @@
+D:\BizRunTime\Arrays_Generics\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\BizRunTime\Arrays_Generics\Arrays\Arrays\bin\Debug\Arrays.exe
+D:\BizRunTime\Arrays_Generics\Arrays\Arrays\bin\Debug\Arrays.pdb
+D:\BizRunTime\Arrays_Generics\Arrays\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+D:\BizRunTime\Arrays_Generics\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\BizRunTime\Arrays_Generics\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\BizRunTime\Arrays_Generics\Arrays\Arrays\obj\Debug\Arrays.pdb

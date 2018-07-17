@@ -1,0 +1,62 @@
+Indexer:
+----------
+>An indexer allows an object to be indexed such as an array
+> is a class property that allows you to access a member variable of a class using the features of an array
+
+>this:
+this is a special keyword in C# to indicate the object of the current class.
+
+Syntax:
+--------
+Creating an Indexer
+<modifier> <return type> this [argument list]
+{
+get
+{
+// your get block code
+}
+
+set
+{
+// your set block code
+}
+} 
+
+In the above code:
+
+<modifier>
+can be private, public, protected or internal. 
+
+<return type>
+can be any valid C# types. 
+
+this:
+this is a special keyword in C# to indicate the object of the current class.
+
+ 
+
+[argument list]
+
+The formal-argument-list specifies the parameters of the indexer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

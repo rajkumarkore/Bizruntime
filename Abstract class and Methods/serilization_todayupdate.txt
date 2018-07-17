@@ -1,0 +1,57 @@
+Hi Team
+-----------
+Update of the Day
+===============
+First-session:
+=========
+>Introduction to Interface
+     >Advantages of Interface
+     >Disadvantages of Interface
+>how to use Interface
+>when we have to use Interface
+>Interface Methods		
+>Implementing Interface methods in derived class.
+
+Second-sesion :
+==========
+ >What is Serialization
+>Advantages of Serialization
+     >Types of Serialization             
+             >XML Serialization			
+             >Binary Serialization
+	     >JSON Serialization
+>Basic and custom serialization
+>What is DeSerialization	
+>Advantages of Binary Serialization	
+>Disadvantages of Binary Serialization
+>XML Serialization				
+>Advantages of XML Serialization	
+>Disadvantages of XML Serialization
+>Advantages of JSON Serialization
+
+>All concept program practiced
+
+
+
+
+Task parallel:
+---------------	
+-->Introduction to task parallel
+ -->syntax	
+-->Advantages of Task parallel    
+-->what is a task	
+-->how create a task
+-->different ways to create task			
+
+Second-sesion
+==============
+Network programming	:
+-----------------------------
+-->Introduction to Network programming	
+-->intrduction		
+-->socket	
+-->tcp client		
+-->creating connection		
+--> Server Socket 
+-->Client Socket 
+

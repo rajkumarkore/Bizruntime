@@ -1,0 +1,7 @@
+D:\BizRunTime\FileIO_ExpHandling_Indexer\FileIO\FileIO\obj\Debug\FileIO.csprojAssemblyReference.cache
+D:\BizRunTime\FileIO_ExpHandling_Indexer\FileIO\FileIO\obj\Debug\FileIO.csproj.CoreCompileInputs.cache
+D:\BizRunTime\FileIO_ExpHandling_Indexer\FileIO\FileIO\bin\Debug\FileIO.exe.config
+D:\BizRunTime\FileIO_ExpHandling_Indexer\FileIO\FileIO\bin\Debug\FileIO.exe
+D:\BizRunTime\FileIO_ExpHandling_Indexer\FileIO\FileIO\bin\Debug\FileIO.pdb
+D:\BizRunTime\FileIO_ExpHandling_Indexer\FileIO\FileIO\obj\Debug\FileIO.exe
+D:\BizRunTime\FileIO_ExpHandling_Indexer\FileIO\FileIO\obj\Debug\FileIO.pdb

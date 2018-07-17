@@ -1,0 +1,115 @@
+Network programming :
+=============
+How to C# Socket programming
+C# simplifies the network programming through its namespaces like System.Net and System.
+Net.Sockets 
+
+How to C# Socket programming
+C# simplifies the network programming through its namespaces like System.Net and System.Net.Sockets . A Socket is an End-Point of To and From (Bidirectional) communication link between two programs (Server Program and Client Program ) running on the same network . We need two programs for communicating a socket application in C#. A Server Socket Program ( Server ) and a Client Socket Program ( Client ) .
+
+C# socket example:
+========
+C# Server Socket Program: 
+
+A C# Server Socket Program running on a computer has a socket that bound 
+to a Port Number on the same computer and listening to the client's incoming requests.
+--------------------------------------------------------------------
+C# Client Socket Program: 
+
+A C# Client Socket Program have to know the IP Address ( Hostname ) 
+of the computer that the C# Server Socket Program resides and the Port Number assign for listening
+for client's request ..
+
+>>There are two types of communication protocol uses for Socket Programming in C# , they are 
+    TCP/IP ( Transmission Control Protocol/Internet protocol ) Communication and UDP/IP ( User Datagram Protocol/Internet protocol ) Communication .
+==========================================================================
+>Domain Name Service (DNS)
+>There are some other helper classes like IPEndPoint, IPADdress, SocketException etc, which we can use for Network programming
+
+>Multiple n/w cards called  "inteface"
+==========================
+>wireless  card
+>Ethernt adapter
+>VPN
+
+=============
+common ports are :
+==============
+common ports:
+--------
+1.21 FTP(file transfer protocol)
+
+2.22 SSH(secure shell )
+
+3.23 TelNet
+
+4.25 SMTP(simple mail transfer protocol)
+
+5.80 HTTP(hyper text transfer protocol)
+
+6.110 POP3(post office  protocol)
+
+==================
+DNS:
+====
+..Domain Name service
+>Translates human-readabble into IP  Address.
+>Relieves burden of  memorization.
+>This is what  many application use
+
+Ex:
+www.git.com
+-74.125.47.106
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

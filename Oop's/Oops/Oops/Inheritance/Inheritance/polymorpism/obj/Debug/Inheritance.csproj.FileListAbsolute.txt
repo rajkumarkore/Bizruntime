@@ -1,0 +1,7 @@
+D:\.net framework\Oops\Oops\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+D:\.net framework\Oops\Oops\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\.net framework\Oops\Oops\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+D:\.net framework\Oops\Oops\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\.net framework\Oops\Oops\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\.net framework\Oops\Oops\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+D:\.net framework\Oops\Oops\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

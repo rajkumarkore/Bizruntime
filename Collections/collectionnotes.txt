@@ -1,0 +1,187 @@
+ 07-07-2018
+ ==========
+ Collections:----------Collection is similar type of objects grouped together.using System.Collections;
+ ========
+                        Collection classes are specialized classes for data storage and retrieval. 
+			These classes provide support for stacks, queues, lists, and hash tables
+Note:
+------
+1.Increasing the size
+2.Inserting valuse into the middle
+3.Deleting or removing values frm the middle
+
+
+There are the following 3 types of collections:
+----------------------------------------------
+1.Non-Generic
+2.Generic
+3.concurent collection 
+4.Bit collections
+5.Specialized collections
+
+ Non-generic                          Generic
+ ---------------                         ------------
+  ArrayList     ------------->          List
+  Hashtable  ------------->          Dictionary
+  SortedList   ------------->          SortedList  
+  Stack           ------------->          Stack
+  Queue         ------------->          Queue
+
+  ==================================
+  1. Non-Generic:
+  -------------------
+a).Each element can represent a value of a different type.
+b).Array Size is not fixed.
+c).Elements can be added / removed at runtime.
+
+a)ArrayList :           ---miainly it is using auto-resizing
+==========    
+
+ 1.Arraylist is a class that is similar to an array, but it can be used to store values of various types.
+2.An Arraylist doesn't have a specific size.
+3.Any number of elements can be stored. 
+
+note:
+------
+   . It represents ordered collection of an object that can be indexed individually. 
+   . It also allows dynamic memory allocation, adding, searching and sorting items in the list.
+
+Diff,,arry and arrlist
+-----------------------
+fixed lenth----------------------------------variable length
+nt posible to insert items----------we can insert items into middle
+
+====================================================
+
+2.HashTable ;  --key and value combn---here key are user defined keys
+===========
+HashTable is similar to arraylist but represents the items as a combination of a key and value.
+
+==========
+diff b/w both :
+============  
+....A hashtable store data as name, value pair. While an ArrayList only value is store.
+.....If you want to access value from the hashtable, you need to pass name. While in arraylist to access value, you need to pass index value.
+
+Array List :
+------------
+1.Array List is a List.
+2.In Array list we can only add items to the list.
+3.Here we Can Add any datatype value,Every item in Arraylist is treated as object.
+4.Index Numeric.
+5.Data in Arraylist is stored in as only the value.
+6.Slow when come to search
+
+Hash Table :
+-----------
+1.Hash Table is a map.
+2.In Hashtable we can add data with the key.
+3.Retrieving by key in Hashtable is faster than retrieving in Arraylist.
+4.Index can be string also.
+5.Data in Hashtable is stored in the key-value pair.
+6.Fast when searching.
+7.A key cannot be null, but a value can be
+
+==============================
+Dynamic keyw:
+===========
+....The dynamic types are resolved at runtime instead of compile time.
+.....The compiler skips the type checking for dynamic type. So it doesn't give any error about dynamic types at compile time.
+....The dynamic types do not have intellisense support in visual studio.
+....A method can have parameters of the dynamic type.
+...An exception is thrown at runtime if a method or property is not compatible.
+
+========================
+List : List<Tvalue>....type of values can store
+-----
+ List<T> is a concreate implementation of IList<T> interface
+
+ Property:
+ --------
+ Items: Gets or sets the element at the specified index
+Count :Returns the total number of elements exists in the List<T>
+
+
+============================================
+Dictionary : <Tkey(string) ,  Tvalue(object)>
+===============
+* -- here key value purpose must use --string- and actual value purpose use --object
+
+
+   1 ....A collection of values that can be identified and retrieved by using keys
+rather than indexes. 
+
+2 ..In generic class Hashtable replaced as Dictionary
+3...keys are pre-defined
+
+4..it will store the values in sequential order
+
+
+
+
+
+
+
+
+=======================================
+SortedList  :     SortedList<TKey, TValue> 
+-------------
+          A sorted list of key/value pairs. The keys must implement the
+===================================================
+
+Queue:  
+=====
+..Queue collection allows multiple null and duplicate values.
+...When you add an item in the list, it is called enqueue, and when you remove an item, it is called deque.
+
+Advantages:
+========
+1. adding or removing elements can be done quickly and efficiently.
+2.just add elements to the end of the queue or remove them from the front of the queue.
+
+Disadvantages :
+===========
+1.queue is not readily searchable.
+2.adding or removing elements from the middle of the queue is very complex
+
+
+
+
+
+Property & Description
+================	
+Count:
+====
+Gets the number of elements contained in the Queue.
+
+Mthods:
+========
+1.Clear();                           Removes all elements from the Queue
+2.Contains(object obj);     Determines whether an element is in the Queue...........It returns true if the specified item exists; otherwise it returns false.
+3.Dequeue();                      Removes and returns the object at the beginning of the Queue.
+4. Enqueue(object obj);     Adds an object to the end of the Queue
+5.ToArray();                       Copies the Queue to a new array.
+6.TrimToSize();                  Sets the capacity to the actual number of elements in the Queue
+7.The Peek() :          method always returns top most element
+
+
+=======================================
+Stack :
+======
+
+Stack allows null value and also duplicate values. 
+It provides a Push() method to add a value and Pop() or Peek() methods to retrieve values.
+
+Methods:
+======
+Push():	 Inserts an item at the top of the stack.
+Peek():	  Returns the top item from the stack.
+Pop():	      Removes and returns items from the top of the stack.
+Contains():	Checks whether an item exists in the stack or not.
+Clear():	       Removes all items from the stack.
+
+
+
+
+
+

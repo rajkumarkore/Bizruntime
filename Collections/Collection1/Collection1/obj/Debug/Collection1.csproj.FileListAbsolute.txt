@@ -1,0 +1,7 @@
+D:\BizRunTime\Collections\Collection1\Collection1\bin\Debug\Collection1.exe.config
+D:\BizRunTime\Collections\Collection1\Collection1\bin\Debug\Collection1.exe
+D:\BizRunTime\Collections\Collection1\Collection1\bin\Debug\Collection1.pdb
+D:\BizRunTime\Collections\Collection1\Collection1\obj\Debug\Collection1.csprojAssemblyReference.cache
+D:\BizRunTime\Collections\Collection1\Collection1\obj\Debug\Collection1.csproj.CoreCompileInputs.cache
+D:\BizRunTime\Collections\Collection1\Collection1\obj\Debug\Collection1.exe
+D:\BizRunTime\Collections\Collection1\Collection1\obj\Debug\Collection1.pdb

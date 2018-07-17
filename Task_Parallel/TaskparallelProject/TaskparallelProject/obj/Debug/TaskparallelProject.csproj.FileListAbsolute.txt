@@ -1,0 +1,7 @@
+D:\BizRunTime\Task_Parallel\TaskparallelProject\TaskparallelProject\bin\Debug\TaskparallelProject.exe.config
+D:\BizRunTime\Task_Parallel\TaskparallelProject\TaskparallelProject\bin\Debug\TaskparallelProject.exe
+D:\BizRunTime\Task_Parallel\TaskparallelProject\TaskparallelProject\bin\Debug\TaskparallelProject.pdb
+D:\BizRunTime\Task_Parallel\TaskparallelProject\TaskparallelProject\obj\Debug\TaskparallelProject.csprojAssemblyReference.cache
+D:\BizRunTime\Task_Parallel\TaskparallelProject\TaskparallelProject\obj\Debug\TaskparallelProject.csproj.CoreCompileInputs.cache
+D:\BizRunTime\Task_Parallel\TaskparallelProject\TaskparallelProject\obj\Debug\TaskparallelProject.exe
+D:\BizRunTime\Task_Parallel\TaskparallelProject\TaskparallelProject\obj\Debug\TaskparallelProject.pdb

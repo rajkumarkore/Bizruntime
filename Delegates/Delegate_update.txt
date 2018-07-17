@@ -1,0 +1,44 @@
+Hi Team
+-----------
+Update of the Day
+===============
+First-session:
+=========
+Delegates and Events:
+-----------
+>Introduction to Events
+     >Advantages of Events
+     >Disadvantages of Events
+>Types of  Delegates
+        >Single Delegate.
+        >Multicast Delegate. 
+        >Generic Delegate.
+               >Func
+               >Action
+              >Predicate
+
+Second-sesion :
+==========
+
+Async and wait
+----------------
+ >What is Async and wait
+>Advantages of Async and wait    
+ >Disadvantages of Async and wait
+ >uses of   Async and wait 
+>uses of wait
+>There are three return types Async.
+   > Task
+   > Task<T>
+  > Void
+>All concept program practiced   
+
+
+
+
+
+
+
+
+
+

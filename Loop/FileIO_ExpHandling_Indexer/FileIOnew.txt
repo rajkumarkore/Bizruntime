@@ -1,0 +1,8 @@
+FileStream:
+-------------
+>C# FileStream class provides a stream for file operation. It can be used to perform synchronous and asynchronous read and write operations. 
+    By the help of FileStream class, we can easily read and write data into file.
+
+Serialization:
+--------------
+    In C#, serialization is the process of converting object into byte stream so that it can be saved to memory

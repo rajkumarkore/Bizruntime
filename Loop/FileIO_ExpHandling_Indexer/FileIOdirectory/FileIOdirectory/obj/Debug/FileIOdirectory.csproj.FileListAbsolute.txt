@@ -1,0 +1,7 @@
+D:\BizRunTime\File i.o_Exp_Handling\FileIOdirectory\FileIOdirectory\bin\Debug\FileIOdirectory.exe.config
+D:\BizRunTime\File i.o_Exp_Handling\FileIOdirectory\FileIOdirectory\bin\Debug\FileIOdirectory.exe
+D:\BizRunTime\File i.o_Exp_Handling\FileIOdirectory\FileIOdirectory\bin\Debug\FileIOdirectory.pdb
+D:\BizRunTime\File i.o_Exp_Handling\FileIOdirectory\FileIOdirectory\obj\Debug\FileIOdirectory.csprojAssemblyReference.cache
+D:\BizRunTime\File i.o_Exp_Handling\FileIOdirectory\FileIOdirectory\obj\Debug\FileIOdirectory.csproj.CoreCompileInputs.cache
+D:\BizRunTime\File i.o_Exp_Handling\FileIOdirectory\FileIOdirectory\obj\Debug\FileIOdirectory.exe
+D:\BizRunTime\File i.o_Exp_Handling\FileIOdirectory\FileIOdirectory\obj\Debug\FileIOdirectory.pdb

@@ -1,0 +1,77 @@
+Task Parallel:
+=========
+Task : It refers to an operation to be completed. It is a unit of work or processing.
+
+Task Parallelism : It refers to one or more depeinndent asynchronous tasks running concurrently i.e. in parallel.
+
+The Task Parallel Library (TPL) is a collection of new classes specifically designed to 
+make it easier and more efficient to execute very fine-grained parallel workloads on modern hardware.
+
+//multiple task we can to parallely
+==================
+we have a set of new API's to simplify the process of adding parallelism and concurrency to applications. This set of API's is called the "Task Parallel Library (TPL)" and is located in the System.
+Threading and System.Threading.Tasks namespaces.
+The Parallel class found in the System.Threading.Tasks namespace “provides library-based data parallel replacements for common operations such as for loops, 
+for each loops, and execution of a set of statements”. In this article, we will use the  Invoke method of the Parallel class to call multiple methods, possibly in parallel.
+
+//Task taskA = new Task(() => return "You should get this value " );
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

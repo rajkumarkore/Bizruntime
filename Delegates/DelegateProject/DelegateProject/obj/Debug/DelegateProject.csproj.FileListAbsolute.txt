@@ -1,0 +1,7 @@
+D:\BizRunTime\Delegates\DelegateProject\DelegateProject\obj\Debug\DelegateProject.csprojAssemblyReference.cache
+D:\BizRunTime\Delegates\DelegateProject\DelegateProject\obj\Debug\DelegateProject.csproj.CoreCompileInputs.cache
+D:\BizRunTime\Delegates\DelegateProject\DelegateProject\bin\Debug\DelegateProject.exe.config
+D:\BizRunTime\Delegates\DelegateProject\DelegateProject\bin\Debug\DelegateProject.exe
+D:\BizRunTime\Delegates\DelegateProject\DelegateProject\bin\Debug\DelegateProject.pdb
+D:\BizRunTime\Delegates\DelegateProject\DelegateProject\obj\Debug\DelegateProject.exe
+D:\BizRunTime\Delegates\DelegateProject\DelegateProject\obj\Debug\DelegateProject.pdb

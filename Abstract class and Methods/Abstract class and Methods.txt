@@ -1,0 +1,163 @@
+Abstract class and Methods:
+===================
+A method withot any mthd body is kwn as abstact methd,
+ what the method contains is only declaration of the method.
+>abstract class cantain all member of class is use
+>abstract class cant instantialte directly we need to create new class or abstract class..
+>by default absrtact class are not public or abstarct need to provide
+
+Abstract Class : We can not create an object of an abstract class and can 
+call the method of abstract class with the help of class name only.
+ex:
+
+abstract class Math
+{
+ public abstract void Add(int x, int y);
+
+ }
+
+>if a mtd is declerd as abstrct under any class then the child  class of that 
+class is responsible for implng the methd witht out fail.
+
+=============================
+Abstract class: a class under which we define  absrtct methd is calld Abs cls
+=========
+>a class which contain one are more function is called  abs class
+>if we dnt want implemtation in base(parent) class we want to 
+implement in  derived(child) class then use  the abstact class
+
+
+>Abst Methds
+>non-abstr  methds
+
+Ex: 
+ abstract class AbstractParent
+    {
+ public void Add(int x,int y)
+        {
+            Console.WriteLine(x + y);
+        }
+
+        public void Sub(int x, int y)
+        {
+            Console.WriteLine(x - y);
+        }
+
+        public abstract void Mul(int x, int y);
+        public abstract void Div(int x, int y);
+   }
+}
+
+=======================================
+ class AbsChild : AbstractParent
+    {
+        public override void Mul(int x, int y)
+        {
+            Console.WriteLine(x * y);
+        }
+        public override void Div(int x, int y)
+        {
+            Console.WriteLine(x / y);
+        }
+        static void Main()
+        {
+            AbsChild c = new AbsChild();
+            c.Add(2, 4);c.Sub(16, 7);
+            c.Mul(12, 4); c.Div(49, 7);
+            Console.ReadLine();
+        }
+    }
+======================================
+The advantages of an abstract class are:
+
+Ability to specify default implementations of methods
+Added invariant checking to functions
+Have slightly more control in how the "interface" methods are called
+Ability to provide behavior related or unrelated to the interface for "free"
+
+
+=======================
+An Abstract class doesn't provide full abstraction but an interface does provide full abstraction; i.e. both a declaration and a definition is given in an abstract class but not so in an interface.
+Using Abstract we can not achieve multiple inheritance but using an Interface we can achieve multiple inheritance.
+We can not declare a member field in an Interface.
+We can not use any access modifier i.e. public , private , protected , internal etc. because within an interface by default everything is public.
+An Interface member cannot be defined using the keyword static, virtual, abstract or sealed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

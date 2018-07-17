@@ -1,0 +1,97 @@
+Interfaces:
+-----------
+>class: it's  a user - defines data type.
+>Interface : this is also an user-defined data type only.
+
+>class: Non-Abstract methods(methods with method body)
+
+>Abstct class : Non-Abstract methods(methods with method body)
+and also Abstract methods(methods without method body)
+
+>Interface: Contains only Abstract methods(methods without method body
+==========================
+>Note: Every abstract method of an inteface should be implemented by the child class of the interface
+
+>Interfaces define properties, methods, and events, which are the members of the interface. 
+>Interfaces contain only the declaration of the members.
+
+>a class which contain all abstrct function is called interface.
+
+>Interface cant be implemented itself it is implementad by class
+
+>interface will provide control over the class.
+
+>interface also cannot instantiate  directely....same as abst
+
+>we need to create or derive new class from interface to functionality to its abstr functions
+
+>Interface is contain:
+=============
+>Abstract function
+>Properties
+>Events
+>Indexers
+
+Interface is not contain:
+=============
+>non abstrct function
+>datafields
+>constr
+>destr
+
+>>by default Interface are public or defult
+>to use inteface we can achive multiple interface
+=====================================
+
+B) An Interface : The syntax of an Interface looks like this:
+interface 
+{     
+//Interface member
+}
+
+NOTE :
+
+An Interface member can not contain code bodies.
+Type definition members are forbidden.
+Properties are defined in an interface with the help of an access block get and set, which are permitted for the property. 
+==================
+**
+An Abstract class doesn't provide full abstraction but an interface does provide full abstraction; i.e. both a declaration and a definition is given in an abstract class but not so in an interface.
+Using Abstract we can not achieve multiple inheritance but using an Interface we can achieve multiple inheritance.
+We can not declare a member field in an Interface.
+We can not use any access modifier i.e. public , private , protected , internal etc. because within an interface by default everything is public.
+An Interface member cannot be defined using the keyword static, virtual, abstract or sealed
+
+===========================================
+ an Interface provides only those public services declared in the interface, 
+ whereas an abstract class provides the public services defined in an abstract class and those members that are inherited from the abstract class's base class.
+==========================================
+
+An interface only contains declarations of method, events & properties.
+An interface can be implement implicitly or explicitly.
+An interface cannot include private members. All the members are public by default
+
+===================
+
+C#, serialization is the process of converting object into byte stream so that it can be saved to memory, file or database.
+The reverse process of serialization is called deserialization.
+
+Serialization is the process of going from in memory representation of an object to a disk based format which can be in any form like binary, JSON, BSON, XML, etc. 
+Deserialization is the reverse process, in which you get an object from the disk based format
+
+Serialization:
+===========
+1.Binary serialization
+2.XML serialization
+3.Basic and custom serialization
+
+Advantages of serialization
+===================
+..Passing an object from one application to another.
+..Passing an object from one domain to another.
+
+The advantage of serialization is the ability to transmit data across the
+network in a cross-platform-compatible format, as well as saving it in a persistent or non-persistent storage medium in a non-proprietary format.
+
+>Serialization is used to write class objects to files.
+

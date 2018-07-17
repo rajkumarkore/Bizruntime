@@ -1,0 +1,7 @@
+D:\BizRunTime\Abstract class and Methods\Serialization.cs\Serialization.cs\obj\Debug\SerializationExamples.csprojAssemblyReference.cache
+D:\BizRunTime\Abstract class and Methods\Serialization.cs\Serialization.cs\obj\Debug\SerializationExamples.csproj.CoreCompileInputs.cache
+D:\BizRunTime\Abstract class and Methods\Serialization.cs\Serialization.cs\obj\Debug\Serialization.cs.exe
+D:\BizRunTime\Abstract class and Methods\Serialization.cs\Serialization.cs\obj\Debug\Serialization.cs.pdb
+D:\BizRunTime\Abstract class and Methods\Serialization.cs\Serialization.cs\bin\Debug\Serialization.cs.exe.config
+D:\BizRunTime\Abstract class and Methods\Serialization.cs\Serialization.cs\bin\Debug\Serialization.cs.exe
+D:\BizRunTime\Abstract class and Methods\Serialization.cs\Serialization.cs\bin\Debug\Serialization.cs.pdb

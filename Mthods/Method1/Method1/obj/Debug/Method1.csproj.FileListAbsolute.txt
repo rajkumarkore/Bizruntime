@@ -1,0 +1,7 @@
+D:\BizRunTime\Mthods\Method1\Method1\obj\Debug\Method1.csprojAssemblyReference.cache
+D:\BizRunTime\Mthods\Method1\Method1\obj\Debug\Method1.csproj.CoreCompileInputs.cache
+D:\BizRunTime\Mthods\Method1\Method1\bin\Debug\Method1.exe.config
+D:\BizRunTime\Mthods\Method1\Method1\bin\Debug\Method1.exe
+D:\BizRunTime\Mthods\Method1\Method1\bin\Debug\Method1.pdb
+D:\BizRunTime\Mthods\Method1\Method1\obj\Debug\Method1.exe
+D:\BizRunTime\Mthods\Method1\Method1\obj\Debug\Method1.pdb

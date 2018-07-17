@@ -1,0 +1,6 @@
+Delegates  and Event:
+==============
+
+Delegates is a function pointer which can able to store the address of any function with same prototype.
+While Event is a function handler which can handles or run the functions in same prototype of its delegate. ... All delegates in .Net are multicast delegates i.e. 
+they hold references to several object/method pairs.
